@@ -17,3 +17,4 @@ Kita memerlukan perangkat keras seperti komputer dan perangkat lunak seperti sis
 Mempunyai database untuk menyimpan keseluruhan sistem yang berguna untuk melacak paket yang sedang di kirim mulai dari barang, sistem pembayaran dan detail transaski.
 
 Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi
+![image](https://github.com/AbiyanfarasDanuyasa/RPL-Jasa-Pengiriman-Barang/assets/115562487/061a855a-c0c3-408f-ae6d-f27a133fa4f1)
