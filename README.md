@@ -18,3 +18,6 @@ Mempunyai database untuk menyimpan keseluruhan sistem yang berguna untuk melacak
 
 Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi
 ![image](https://github.com/AbiyanfarasDanuyasa/RPL-Jasa-Pengiriman-Barang/assets/115562487/061a855a-c0c3-408f-ae6d-f27a133fa4f1)
+
+![image](https://github.com/AbiyanfarasDanuyasa/RPL-Jasa-Pengiriman-Barang/assets/115562487/ce1323d4-3b99-4ff1-abba-736a940adb87)
+
