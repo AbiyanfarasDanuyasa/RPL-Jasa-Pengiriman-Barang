@@ -21,3 +21,6 @@ Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transa
 
 ![image](https://github.com/AbiyanfarasDanuyasa/RPL-Jasa-Pengiriman-Barang/assets/115562487/ce1323d4-3b99-4ff1-abba-736a940adb87)
 
+![image](https://github.com/AbiyanfarasDanuyasa/RPL-Jasa-Pengiriman-Barang/assets/115562487/62237a67-177f-4687-a80f-05fad5809974)
+
+
